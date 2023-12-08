@@ -7,14 +7,14 @@ DOCNAME = DataLinkImp
 DOCVERSION = 1.0
 
 # Publication date, ISO format; update manually for "releases"
-DOCDATE = 2020-02-16
+DOCDATE = 2023-12-08
 
 # What is it you're writing: NOTE, WD, PR, REC, PEN, or EN
 DOCTYPE = NOTE
 
 # An e-mail address of the person doing the submission to the document
 # repository (can be empty until a make upload is being made)
-AUTHOR_EMAIL=
+AUTHOR_EMAILi = francois.bonnarel@astro.unistra.fr
 
 # Source files for the TeX document (but the main file must always
 # be called $(DOCNAME).tex
